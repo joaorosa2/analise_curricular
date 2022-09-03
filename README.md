@@ -37,7 +37,7 @@ Dica: Ficará incrível se quiserem usar os próprios currículos!
 ### :gear: <strong>Como executar:</strong>
 1º Clone o repositório abaixo:
 ```shell
-git clone https://github.com/joaorosa2/codigo-de-automacao-de-analise-curricular.git
+git clone https://github.com/joaorosa2/analise_curricular.git
 ```
 2º Abra o arquivo "main.py" com uma IDE de sua preferência; <br/>
 3º Execute o arquivo "main.py", para isso procure pelo comando 'run python file' ou similar; <br/>
