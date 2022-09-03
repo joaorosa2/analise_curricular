@@ -17,9 +17,6 @@ O texto do resumo vai ser informado pelo usuário e então vamos verificar se pe
 
 Ao final, nosso código deve mostrar como saída: quantas pessoas estão inscritas em cada vaga; e quantas pessoas tem o resumo com as palavras que estamos buscando.
 
-Desafio extra 1: entregar o link do Github com os commits devidamente documentados
-
-Desafio extra 2: ler os resumos a partir de arquivos txt em uma pasta
 Dica: Ficará incrível se quiserem usar os próprios currículos!
 
 --------
